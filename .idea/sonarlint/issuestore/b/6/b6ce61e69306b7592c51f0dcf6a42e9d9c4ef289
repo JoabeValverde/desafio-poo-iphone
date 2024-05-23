@@ -1,0 +1,16 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ύ™8ψΐ‚δω1J$7f34401b-dd7d-499b-8a40-d8a1e88a9aa5
+r	java:S106"+Replace this use of System.out by a logger.(€ωÒλώÿÿÿÿ8ωΐ‚δω1J$fc946ea3-2ed0-48ec-a383-74a6bf48d8fd
+r	java:S106"+Replace this use of System.out by a logger.(Γ£γπωÿÿÿÿ8ϋΐ‚δω1J$7460770a-4b1b-4e26-a6df-df8014799101
+m	java:S106"+Replace this use of System.out by a logger.(ό›ώ8όΐ‚δω1J$566ccccf-a12a-4369-aaf8-b797b61554be
+r	java:S106""+Replace this use of System.out by a logger.(σζΛ«ύÿÿÿÿ8όΐ‚δω1J$78a13651-11e7-459f-b46c-2edebe93a05b
+l	java:S106&"+Replace this use of System.out by a logger.(‡“‡8ύΐ‚δω1J$13a9ace3-04ab-40c7-b3db-1ba60ff8e1e6
+m	java:S106+"+Replace this use of System.out by a logger.(ΖφΞª8ύΐ‚δω1J$5b437d72-5f03-4b97-a5e0-e1bbcdc1f64f
+m	java:S106/"+Replace this use of System.out by a logger.(”Ν…¤8ÿΐ‚δω1J$bab75633-706d-49e2-b622-0eceefb0ab83
+r	java:S1063"+Replace this use of System.out by a logger.(ήοΡφωÿÿÿÿ8€Α‚δω1J$03dfacf1-3aed-4378-923b-2ff1cf8bc874
+ƒ
+java:S18547";Remove this useless assignment to local variable "scanner".(ω ƒ‘όÿÿÿÿ8Α‚δω1J$9e4d57bb-179c-4b14-ab79-61bbecb8e5a5
+t
+java:S14817",Remove this unused "scanner" local variable.(ω ƒ‘όÿÿÿÿ8‡Α‚δω1J$1d0e2b96-3fa5-4ca9-9c33-effad1cc6a19
+r	java:S106A"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8ΕΪ…δω1J$334f7800-389b-424f-bf53-2eb053bd503b
+L	java:S106H"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8αυ…δω1
